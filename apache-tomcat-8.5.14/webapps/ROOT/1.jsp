@@ -7,7 +7,7 @@
 <FONT Size=3>
 <P>这是一个简单的JSP页面
 <% //这是Java程序片
-    int i, sum = 0;
+    sum = 0;
     for (i = 1; i <= 100; i++) {
         sum = sum + i;
     }

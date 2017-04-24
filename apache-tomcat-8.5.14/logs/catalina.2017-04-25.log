@@ -1,0 +1,41 @@
+25-Apr-2017 05:35:16.534 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.14
+25-Apr-2017 05:35:16.536 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Apr 13 2017 12:55:45 UTC
+25-Apr-2017 05:35:16.536 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.14.0
+25-Apr-2017 05:35:16.536 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+25-Apr-2017 05:35:16.536 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.12.4
+25-Apr-2017 05:35:16.536 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+25-Apr-2017 05:35:16.536 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre
+25-Apr-2017 05:35:16.536 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_121-b13
+25-Apr-2017 05:35:16.536 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+25-Apr-2017 05:35:16.536 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/chenxin/Documents/GithubRepository/JSP/apache-tomcat-8.5.14
+25-Apr-2017 05:35:16.536 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/chenxin/Documents/GithubRepository/JSP/apache-tomcat-8.5.14
+25-Apr-2017 05:35:16.537 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/chenxin/Documents/GithubRepository/JSP/apache-tomcat-8.5.14/conf/logging.properties
+25-Apr-2017 05:35:16.537 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+25-Apr-2017 05:35:16.537 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+25-Apr-2017 05:35:16.537 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+25-Apr-2017 05:35:16.537 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/chenxin/Documents/GithubRepository/JSP/apache-tomcat-8.5.14
+25-Apr-2017 05:35:16.537 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/chenxin/Documents/GithubRepository/JSP/apache-tomcat-8.5.14
+25-Apr-2017 05:35:16.537 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/chenxin/Documents/GithubRepository/JSP/apache-tomcat-8.5.14/temp
+25-Apr-2017 05:35:16.537 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /Users/chenxin/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.
+25-Apr-2017 05:35:16.628 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+25-Apr-2017 05:35:16.650 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+25-Apr-2017 05:35:16.652 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+25-Apr-2017 05:35:16.653 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+25-Apr-2017 05:35:16.653 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 406 ms
+25-Apr-2017 05:35:16.672 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
+25-Apr-2017 05:35:16.672 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.14
+25-Apr-2017 05:35:16.679 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory /Users/chenxin/Documents/GithubRepository/JSP/apache-tomcat-8.5.14/webapps/admin
+25-Apr-2017 05:35:16.911 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory /Users/chenxin/Documents/GithubRepository/JSP/apache-tomcat-8.5.14/webapps/admin has finished in 231 ms
+25-Apr-2017 05:35:16.911 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory /Users/chenxin/Documents/GithubRepository/JSP/apache-tomcat-8.5.14/webapps/docs
+25-Apr-2017 05:35:16.922 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory /Users/chenxin/Documents/GithubRepository/JSP/apache-tomcat-8.5.14/webapps/docs has finished in 11 ms
+25-Apr-2017 05:35:16.922 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory /Users/chenxin/Documents/GithubRepository/JSP/apache-tomcat-8.5.14/webapps/examples
+25-Apr-2017 05:35:17.120 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory /Users/chenxin/Documents/GithubRepository/JSP/apache-tomcat-8.5.14/webapps/examples has finished in 198 ms
+25-Apr-2017 05:35:17.121 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory /Users/chenxin/Documents/GithubRepository/JSP/apache-tomcat-8.5.14/webapps/host-manager
+25-Apr-2017 05:35:17.136 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory /Users/chenxin/Documents/GithubRepository/JSP/apache-tomcat-8.5.14/webapps/host-manager has finished in 15 ms
+25-Apr-2017 05:35:17.136 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory /Users/chenxin/Documents/GithubRepository/JSP/apache-tomcat-8.5.14/webapps/manager
+25-Apr-2017 05:35:17.147 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory /Users/chenxin/Documents/GithubRepository/JSP/apache-tomcat-8.5.14/webapps/manager has finished in 11 ms
+25-Apr-2017 05:35:17.147 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory /Users/chenxin/Documents/GithubRepository/JSP/apache-tomcat-8.5.14/webapps/ROOT
+25-Apr-2017 05:35:17.201 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory /Users/chenxin/Documents/GithubRepository/JSP/apache-tomcat-8.5.14/webapps/ROOT has finished in 54 ms
+25-Apr-2017 05:35:17.203 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+25-Apr-2017 05:35:17.208 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+25-Apr-2017 05:35:17.210 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 556 ms
